@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+
+application:
+  name: ki-bot
+  notion:
+    base-url: https://api.notion.com
+    database: 94f8d84e94d7403989f7d53f3966fd0f
+    version: 2022-06-28
+    client-secret: secret_w9n8zJBc1Y2ZqALNmsDszWQY64IXKVOPJa2nhAG9cqo
+  hugging-face:
+    base-url: https://api-inference.huggingface.co
+    client-secret: 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
